@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            UniquekyTwo
+title:            UniquelyTwo
 tagline:          'Home of Jupyter notebooks'
 description:      'Find interesting and helpful notebooks. Theme  made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://uniquelyTwo.github.io
