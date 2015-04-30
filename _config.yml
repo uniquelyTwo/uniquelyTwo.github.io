@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            UniquelyTwo
 tagline:          'Home of Jupyter notebooks'
-description:      'Find interesting and helpful notebooks.'
+description:      'Find interesting and helpful Jupyter/IPyhton notebooks.'
 url:              http://uniquelyTwo.github.io
 baseurl:          /
 
